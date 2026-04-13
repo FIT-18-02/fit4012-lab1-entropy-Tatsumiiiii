@@ -40,7 +40,7 @@ int main() {
     cout << "Nhap a, m: ";
     cin >> a >> m;
 
-    if (gcd(a, m) != 1) {
+    if (mod_inverse(a, m) == -1) {
         cout << "Khong ton tai nghich dao modulo vi gcd(a, m) != 1.\n";
         return 0;
     }
