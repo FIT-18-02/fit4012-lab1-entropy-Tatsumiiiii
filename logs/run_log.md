@@ -11,4 +11,4 @@
 - [x] Đã chạy với `6 9`
 
 ## Điều em học được từ bài lab
-Viết 3-5 dòng ngắn gọn ở đây.
+Qua bài lab, em đã nắm vững cách định lượng thông tin qua Entropy/Redundancy và triển khai thuật toán Euclid mở rộng để tìm nghịch đảo modulo. Khó khăn lớn nhất là việc xử lý số dư âm trong lập trình và kiểm soát luồng biến $x, y$ khi đệ quy. Tuy nhiên, việc trực tiếp so sánh các chuỗi lặp như aaaa giúp em hiểu rõ Entropy là "độ bất ngờ",giúp em thấu hiểu bản chất toán học của nghịch đảo modulo.
